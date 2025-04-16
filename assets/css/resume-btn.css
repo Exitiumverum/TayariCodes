@@ -1,0 +1,14 @@
+
+.resume-btn{
+    border: none;
+    border-radius: 0.8em;
+    align-self: center;
+    padding: 1em;
+    font-weight: 500;
+    box-shadow: 1px, 1px, 5px, black;
+    transition: scale 0.3s ease;
+}
+
+.resume-btn:hover{
+    scale: 1.1;
+}
